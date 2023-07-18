@@ -3,9 +3,10 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Comparator;
 
-public class TicketComparoToTest {
+public class AviaSoulsTest {
 
     //Test Price
+
     @Test
     public void ticketsTest() {
         AviaSouls avia = new AviaSouls();
